@@ -39,7 +39,7 @@
         Cada momento contigo es un regalo, y siempre estarás en mi corazón.
     </p>
     <p>
-        Gracias por ser mi mayor alegría y mi más grande amor.  
+        Gracias por alegrarme mis dias por fis ya no te enojes conmigo :c.  
         ¡Te amo hoy y siempre! 💕
     </p>
     <div class="heart">💖</div>
